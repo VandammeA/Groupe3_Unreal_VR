@@ -1744,3 +1744,241 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.10-14.20.38:077][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 6:38 min)
 [2023.05.10-14.20.38:085][930]AssetCheck: New page: Asset Save: VRManor
 [2023.05.10-14.20.38:085][930]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRManor.VRManor
+[2023.05.10-14.21.51:566][833]LogViewport: Scene viewport resized to 1272x734, mode Windowed.
+[2023.05.10-14.21.54:266][887]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2023.05.10-14.23.39:979][448]AssetReimport: New page: Outstanding source content changes 18:23:39
+[2023.05.10-14.23.40:285][449]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/Kerosene_lamp_01.obj)
+[2023.05.10-14.23.40:525][449]LogFbx: Loading FBX Scene from C:/Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/Kerosene_lamp_01.obj
+[2023.05.10-14.23.47:482][449]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.10-14.23.50:605][449]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.10-14.24.09:195][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.10-14.24.09:454][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.10-14.24.09:470][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 274 ms (total: 6:38 min)
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: ================================================
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: Total job queries 641, among them cache hits 8 (1.25%)
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: Tracking 633 distinct input hashes that result in 175 distinct outputs (27.65%)
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: RAM used: 7.67 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.87%
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: Shaders Compiled: 633
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: Jobs assigned 633, completed 633 (100.00%)
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: Average time worker was idle: 6.60 s
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: Time job spent in pending queue: average 16.83 s, longest 101.43 s
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: Job execution time: average 4.59 s, max 19.53 s
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: Job life time (pending + execution): average 21.41 s, max 103.86
+[2023.05.10-14.24.09:602][452]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 605.61 s
+[2023.05.10-14.24.09:603][452]LogShaderCompilers: Display: Jobs were issued in 589 batches (only local compilation was used), average 1.07 jobs/batch
+[2023.05.10-14.24.09:603][452]LogShaderCompilers: Display: Average processing rate: 1.05 jobs/sec
+[2023.05.10-14.24.09:603][452]LogShaderCompilers: Display: Total thread time: 2142.39 s
+[2023.05.10-14.24.09:603][452]LogShaderCompilers: Display: Total thread preprocess time: 52.95 s
+[2023.05.10-14.24.09:604][452]LogShaderCompilers: Display: Percentage time preprocessing: 2.47%
+[2023.05.10-14.24.09:604][452]LogShaderCompilers: Display: Effective parallelization: 3.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.10-14.24.09:604][452]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 7.39 sec, max 10.61 sec, min 2.15 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   13 times, average 6.41 sec, max 8.06 sec, min 2.43 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   40 times, average 6.15 sec, max 12.05 sec, min 2.35 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   44 times, average 5.55 sec, max 12.25 sec, min 1.12 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   38 times, average 5.51 sec, max 8.52 sec, min 2.35 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.49% of total time (compiled   40 times, average 6.15 sec, max 12.05 sec, min 2.35 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.39% of total time (compiled   44 times, average 5.55 sec, max 12.25 sec, min 1.12 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.77% of total time (compiled   38 times, average 5.51 sec, max 8.52 sec, min 2.35 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 9.72% of total time (compiled   38 times, average 5.48 sec, max 12.33 sec, min 2.38 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.46% of total time (compiled   31 times, average 5.16 sec, max 6.04 sec, min 1.78 sec)
+[2023.05.10-14.24.09:605][452]LogShaderCompilers: Display: ================================================
+[2023.05.10-14.24.12:483][575]AssetReimport: Importing new asset /Game/VRTemplate/Kerosene_lamp_01.
+[2023.05.10-14.24.16:127][793]LogSlate: Window 'Message Log' being destroyed
+[2023.05.10-14.24.16:132][793]LogSlate: Window 'Message Log' being destroyed
+[2023.05.10-14.24.53:408][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.05.10-14.24.56:334][429]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.10-14.24.56:633][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.05.10-14.24.56:650][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.10-14.24.56:667][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.10-14.28.19:324][169]AssetReimport: New page: Outstanding source content changes 18:28:19
+[2023.05.10-14.28.19:445][170]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/lamp.fbx)
+[2023.05.10-14.28.19:522][170]LogFbx: Loading FBX Scene from C:/Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/lamp.fbx
+[2023.05.10-14.28.19:892][170]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.10-14.28.21:606][170]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.10-14.28.43:485][170]LogStaticMesh: Built static mesh [4.84s] /Game/VRTemplate/lamp.lamp
+[2023.05.10-14.28.58:257][170]LogMeshUtilities: Finished distance field build in 14.7s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 56% occupied, 205162 triangles, lamp
+[2023.05.10-14.28.58:923][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.10-14.28.59:402][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/lamp" FILE="../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/lamp.uasset" SILENT=true
+[2023.05.10-14.28.59:490][172]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/VRTemplate/lamp) ...
+[2023.05.10-14.29.01:097][172]LogSavePackage: Moving output files for package: /Game/VRTemplate/lamp
+[2023.05.10-14.29.01:097][172]LogSavePackage: Moving '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Saved/lamp4669DFE34B2BD390C80AF7AA31CB2A19.tmp' to '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/lamp.uasset'
+[2023.05.10-14.29.01:129][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.20 sec (total: 6:40 min)
+[2023.05.10-14.29.01:164][173]AssetCheck: New page: Asset Save: lamp
+[2023.05.10-14.29.01:166][173]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/VRTemplate/lamp.lamp
+[2023.05.10-14.29.04:140][332]AssetReimport: Importing new asset /Game/VRTemplate/lamp.
+[2023.05.10-14.29.05:242][393]LogSlate: Window 'Message Log' being destroyed
+[2023.05.10-14.29.05:250][393]LogSlate: Window 'Message Log' being destroyed
+[2023.05.10-14.29.15:436][888]LogShaderCompilers: Display: ================================================
+[2023.05.10-14.29.15:438][888]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.10-14.29.15:438][888]LogShaderCompilers: Display: Total job queries 703, among them cache hits 66 (9.39%)
+[2023.05.10-14.29.15:438][888]LogShaderCompilers: Display: Tracking 634 distinct input hashes that result in 175 distinct outputs (27.60%)
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: RAM used: 7.68 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.87%
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: Shaders Compiled: 634
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: Jobs assigned 637, completed 634 (99.53%)
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: Average time worker was idle: 10.16 s
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: Time job spent in pending queue: average 16.72 s, longest 101.43 s
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: Job execution time: average 4.59 s, max 19.53 s
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: Job life time (pending + execution): average 21.39 s, max 103.86
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 614.07 s
+[2023.05.10-14.29.15:439][888]LogShaderCompilers: Display: Jobs were issued in 593 batches (only local compilation was used), average 1.07 jobs/batch
+[2023.05.10-14.29.15:440][888]LogShaderCompilers: Display: Average processing rate: 1.03 jobs/sec
+[2023.05.10-14.29.15:440][888]LogShaderCompilers: Display: Total thread time: 2148.18 s
+[2023.05.10-14.29.15:440][888]LogShaderCompilers: Display: Total thread preprocess time: 53.14 s
+[2023.05.10-14.29.15:440][888]LogShaderCompilers: Display: Percentage time preprocessing: 2.47%
+[2023.05.10-14.29.15:440][888]LogShaderCompilers: Display: Effective parallelization: 3.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 7.39 sec, max 10.61 sec, min 2.15 sec)
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   13 times, average 6.41 sec, max 8.06 sec, min 2.43 sec)
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   40 times, average 6.15 sec, max 12.05 sec, min 2.35 sec)
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   44 times, average 5.55 sec, max 12.25 sec, min 1.12 sec)
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   38 times, average 5.51 sec, max 8.52 sec, min 2.35 sec)
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.46% of total time (compiled   40 times, average 6.15 sec, max 12.05 sec, min 2.35 sec)
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.36% of total time (compiled   44 times, average 5.55 sec, max 12.25 sec, min 1.12 sec)
+[2023.05.10-14.29.15:441][888]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.74% of total time (compiled   38 times, average 5.51 sec, max 8.52 sec, min 2.35 sec)
+[2023.05.10-14.29.15:443][888]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 9.69% of total time (compiled   38 times, average 5.48 sec, max 12.33 sec, min 2.38 sec)
+[2023.05.10-14.29.15:443][888]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.44% of total time (compiled   31 times, average 5.16 sec, max 6.04 sec, min 1.78 sec)
+[2023.05.10-14.29.15:443][888]LogShaderCompilers: Display: ================================================
+[2023.05.10-14.29.19:430][ 11]LogMeshUtilities: Finished distance field build in 19.1s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 56% occupied, 205162 triangles, lamp
+[2023.05.10-14.29.20:255][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/lamp.lamp
+[2023.05.10-14.29.20:258][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/lamp.lamp
+[2023.05.10-14.29.20:537][ 42]LogMeshUtilities: Finished mesh card build in 1.0s lamp tris:205162 surfels:2566
+[2023.05.10-14.29.20:637][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRTemplate/lamp.lamp as actor: StaticMeshActor /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.StaticMeshActor_0
+[2023.05.10-14.29.21:578][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/lamp.lamp
+[2023.05.10-14.29.21:578][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/lamp.lamp
+[2023.05.10-14.29.21:660][ 59]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRTemplate/lamp.lamp as actor: StaticMeshActor /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.StaticMeshActor_2
+[2023.05.10-14.29.24:618][ 69]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.35:278][628]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.35:545][642]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.36:013][666]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.36:386][685]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.36:775][702]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.44:765][138]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.45:774][198]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.46:688][252]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.52:357][576]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.53:424][639]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.54:339][693]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.29.55:136][740]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.03:467][223]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.04:634][291]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.05:565][345]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.15:928][923]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.05.10-14.30.15:928][923]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.05.10-14.30.15:943][923]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.DirectionalLight_1
+[2023.05.10-14.30.15:945][923]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.DirectionalLight_1
+[2023.05.10-14.30.25:498][470]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.26:598][535]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.27:583][594]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.37:275][104]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.38:495][164]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.40:838][283]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.44:601][498]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.44:686][502]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.45:034][512]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.45:310][516]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.48:294][645]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.48:332][647]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.48:378][649]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.48:430][651]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.48:492][653]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.48:595][658]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.48:889][673]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.48:979][678]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.49:040][681]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.49:077][683]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.49:203][690]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.49:284][694]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.49:524][707]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.49:723][717]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.49:837][723]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.49:935][728]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.49:973][730]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.50:032][733]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.50:106][737]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.50:215][742]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.50:493][755]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.50:731][762]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.53:361][874]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.53:500][880]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.53:990][892]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.54:240][896]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.54:521][908]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.57:731][ 34]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.58:143][ 55]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.58:787][ 88]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.30.59:311][111]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.31.03:905][332]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.31.04:412][353]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.32.25:314][  0]Cmd: DELETE
+[2023.05.10-14.32.25:316][  0]Cmd: ACTOR DELETE
+[2023.05.10-14.32.25:451][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.10-14.32.25:673][  0]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2023.05.10-14.32.25:699][  0]LogEditorActor: Deleted 1 Actors (0.313 secs)
+[2023.05.10-14.32.25:717][  1]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.10-14.32.58:549][392]LogShaderCompilers: Display: ================================================
+[2023.05.10-14.32.58:549][392]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Total job queries 722, among them cache hits 66 (9.14%)
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Tracking 655 distinct input hashes that result in 183 distinct outputs (27.94%)
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: RAM used: 7.93 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.94%
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Shaders Compiled: 655
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Jobs assigned 656, completed 655 (99.85%)
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Average time worker was idle: 10.90 s
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Time job spent in pending queue: average 16.24 s, longest 101.43 s
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Job execution time: average 4.63 s, max 19.53 s
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Job life time (pending + execution): average 20.90 s, max 103.86
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 667.30 s
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Jobs were issued in 612 batches (only local compilation was used), average 1.07 jobs/batch
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Average processing rate: 0.98 jobs/sec
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Total thread time: 2252.58 s
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Total thread preprocess time: 56.31 s
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Percentage time preprocessing: 2.50%
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.10-14.32.58:550][392]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 7.39 sec, max 10.61 sec, min 2.15 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   47 times, average 6.59 sec, max 13.23 sec, min 2.35 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   13 times, average 6.41 sec, max 8.06 sec, min 2.43 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   44 times, average 5.55 sec, max 12.25 sec, min 1.12 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   41 times, average 5.52 sec, max 12.33 sec, min 2.38 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.74% of total time (compiled   47 times, average 6.59 sec, max 13.23 sec, min 2.35 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.84% of total time (compiled   44 times, average 5.55 sec, max 12.25 sec, min 1.12 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.04% of total time (compiled   41 times, average 5.52 sec, max 12.33 sec, min 2.38 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.29% of total time (compiled   38 times, average 5.51 sec, max 8.52 sec, min 2.35 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.09% of total time (compiled   31 times, average 5.16 sec, max 6.04 sec, min 1.78 sec)
+[2023.05.10-14.32.58:551][392]LogShaderCompilers: Display: ================================================
+[2023.05.10-14.33.32:989][771]LogViewport: Scene viewport resized to 600x338, mode Windowed.
+[2023.05.10-14.33.53:171][582]Cmd: DELETE
+[2023.05.10-14.33.53:171][582]Cmd: ACTOR DELETE
+[2023.05.10-14.33.53:185][582]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.05.10-14.33.53:238][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.05.10-14.33.53:240][582]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2023.05.10-14.34.12:034][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.05.10-14.34.12:038][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.10-14.34.12:147][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.05.10-14.34.12:354][574]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRManor
+[2023.05.10-14.34.12:354][574]LogSavePackage: Moving '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Saved/VRManorF70DC5CA449643941A826E8B8AFB5650.tmp' to '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/Maps/VRManor.umap'
+[2023.05.10-14.34.12:420][574]LogFileHelpers: No new changes to save!
+[2023.05.10-14.34.12:420][574]LogFileHelpers: Saving map 'VRManor' took 0.292
+[2023.05.10-14.34.14:471][574]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.10-14.34.23:092][574]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001694s (8.623680s overbudget)
+[2023.05.10-14.34.23:171][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/_clay" FILE="../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/_clay.uasset" SILENT=true
+[2023.05.10-14.34.23:173][574]LogSavePackage: Moving output files for package: /Game/VRTemplate/_clay
+[2023.05.10-14.34.23:173][574]LogSavePackage: Moving '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Saved/_clay0DC1546047ED31F4511F3CAAF95CDA76.tmp' to '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/_clay.uasset'
+[2023.05.10-14.34.25:205][574]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.10-14.34.33:401][574]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001098s (8.201404s overbudget)
+[2023.05.10-14.34.33:459][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Material_001" FILE="../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/Material_001.uasset" SILENT=true
+[2023.05.10-14.34.33:465][574]LogSavePackage: Moving output files for package: /Game/VRTemplate/Material_001
+[2023.05.10-14.34.33:465][574]LogSavePackage: Moving '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Saved/Material_001F7D52B214D740D710D022B9140025822.tmp' to '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/Material_001.uasset'
+[2023.05.10-14.34.33:492][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.4 sec (total: 7:02 min)
+[2023.05.10-14.34.33:508][574]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.10-14.34.33:508][574]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRManor.VRManor
+[2023.05.10-14.34.33:508][574]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VRTemplate/Material_001.Material_001
+[2023.05.10-14.34.33:508][574]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VRTemplate/_clay._clay
+[2023.05.10-14.34.54:119][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
