@@ -2119,3 +2119,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.12-09.10.54:355][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 383 ms (total: 37.4 sec)
 [2023.05.12-09.10.54:367][138]AssetCheck: New page: Asset Save: VRManor
 [2023.05.12-09.10.54:367][138]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRManor.VRManor
+[2023.05.12-09.12.00:283][800]Cmd: DELETE
+[2023.05.12-09.12.00:283][800]Cmd: ACTOR DELETE
+[2023.05.12-09.12.00:294][800]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.05.12-09.12.00:331][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.12-09.12.00:333][800]LogEditorActor: Deleted 1 Actors (0.050 secs)
