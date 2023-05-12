@@ -2958,3 +2958,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.12-09.39.12:473][368]AssetCheck: New page: Asset Save: VRManor
 [2023.05.12-09.39.12:473][368]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRManor.VRManor
 [2023.05.12-09.39.13:390][407]LogDerivedDataCache: C:/Users/Duval/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.095 and deleted 0 files with total size 0 MiB. Scanned 5689 files in 5588 folders with total size 387 MiB.
+[2023.05.12-09.39.42:322][780]Cmd: DELETE
+[2023.05.12-09.39.42:322][780]Cmd: ACTOR DELETE
+[2023.05.12-09.39.42:342][780]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.05.12-09.39.42:395][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.05.12-09.39.42:396][780]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2023.05.12-09.39.44:976][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.05.12-09.39.44:979][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-09.39.45:079][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.12-09.39.45:245][885]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRManor
+[2023.05.12-09.39.45:247][885]LogSavePackage: Moving '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Saved/VRManorB65643DD43042CA2CC1867864C5B4644.tmp' to '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/Maps/VRManor.umap'
+[2023.05.12-09.39.45:262][885]LogFileHelpers: No new changes to save!
+[2023.05.12-09.39.45:262][885]LogFileHelpers: Saving map 'VRManor' took 0.217
+[2023.05.12-09.39.45:270][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 290 ms (total: 52.4 sec)
+[2023.05.12-09.39.45:282][885]AssetCheck: New page: Asset Save: VRManor
+[2023.05.12-09.39.45:282][885]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRManor.VRManor
