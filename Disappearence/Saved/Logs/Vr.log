@@ -1679,3 +1679,348 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.12-08.52.39:973][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 349 ms (total: 36.5 sec)
 [2023.05.12-08.52.39:987][743]AssetCheck: New page: Asset Save: VRManor
 [2023.05.12-08.52.39:987][743]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRManor.VRManor
+[2023.05.12-08.53.23:898][350]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.05.12-08.53.23:898][350]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.05.12-08.53.23:901][350]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.DirectionalLight_1
+[2023.05.12-08.53.23:902][350]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.DirectionalLight_1
+[2023.05.12-08.54.01:032][503]Cmd: EDIT COPY
+[2023.05.12-08.54.01:695][542]Cmd: EDIT PASTE
+[2023.05.12-08.54.01:767][543]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.09:722][977]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.14:841][226]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.14:953][228]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.15:105][235]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.15:155][238]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.15:209][241]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.15:247][243]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.15:335][248]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.15:372][250]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.15:484][256]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.15:588][259]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.18:004][357]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.18:093][359]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.19:203][424]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.19:456][438]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.19:524][441]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.22:254][575]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.22:423][583]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.22:995][595]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.23:119][601]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.29:165][935]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.29:586][959]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.31:561][ 64]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.31:659][ 70]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.31:695][ 72]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.31:893][ 84]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.32:026][ 92]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.32:211][103]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.32:427][116]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.32:776][137]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.33:195][162]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.33:278][167]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.33:376][173]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.33:743][195]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.33:978][209]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.34:030][212]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.34:060][214]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.54.34:199][221]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: ================================================
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Total job queries 297, among them cache hits 8 (2.69%)
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Tracking 288 distinct input hashes that result in 189 distinct outputs (65.62%)
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: RAM used: 3.34 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.82%
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Shaders Compiled: 288
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Jobs assigned 289, completed 288 (99.65%)
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Average time worker was idle: 10.08 s
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Time job spent in pending queue: average 46.44 s, longest 159.65 s
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Job execution time: average 7.82 s, max 34.64 s
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Job life time (pending + execution): average 54.42 s, max 161.69
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 349.56 s
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Jobs were issued in 246 batches (only local compilation was used), average 1.17 jobs/batch
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Average processing rate: 0.82 jobs/sec
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Total thread time: 1120.73 s
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Total thread preprocess time: 30.58 s
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Percentage time preprocessing: 2.73%
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Effective parallelization: 3.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   13 times, average 9.13 sec, max 11.90 sec, min 3.34 sec)
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 8.91 sec, max 11.17 sec, min 4.72 sec)
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   18 times, average 7.66 sec, max 10.70 sec, min 3.82 sec)
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   20 times, average 7.41 sec, max 11.32 sec, min 3.77 sec)
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   11 times, average 7.06 sec, max 10.88 sec, min 3.47 sec)
+[2023.05.12-08.55.07:180][104]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.12-08.55.07:181][104]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.22% of total time (compiled   20 times, average 7.41 sec, max 11.32 sec, min 3.77 sec)
+[2023.05.12-08.55.07:181][104]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 12.30% of total time (compiled   18 times, average 7.66 sec, max 10.70 sec, min 3.82 sec)
+[2023.05.12-08.55.07:181][104]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 10.59% of total time (compiled   13 times, average 9.13 sec, max 11.90 sec, min 3.34 sec)
+[2023.05.12-08.55.07:181][104]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 10.33% of total time (compiled   13 times, average 8.91 sec, max 11.17 sec, min 4.72 sec)
+[2023.05.12-08.55.07:181][104]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.96% of total time (compiled   17 times, average 5.91 sec, max 11.30 sec, min 1.02 sec)
+[2023.05.12-08.55.07:181][104]LogShaderCompilers: Display: ================================================
+[2023.05.12-08.55.08:784][186]Cmd: TRANSACTION UNDO
+[2023.05.12-08.55.08:784][186]LogEditorTransaction: Undo Set Rotation
+[2023.05.12-08.55.10:229][242]Cmd: TRANSACTION UNDO
+[2023.05.12-08.55.10:229][242]LogEditorTransaction: Undo Set Rotation
+[2023.05.12-08.59.28:621][524]Cmd: DELETE
+[2023.05.12-08.59.28:621][524]Cmd: ACTOR DELETE
+[2023.05.12-08.59.28:634][524]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.12-08.59.28:717][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.05.12-08.59.28:721][524]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2023.05.12-08.59.28:757][525]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.32:683][714]Cmd: DELETE
+[2023.05.12-08.59.32:683][714]Cmd: ACTOR DELETE
+[2023.05.12-08.59.32:693][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.12-08.59.32:730][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.05.12-08.59.32:732][714]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2023.05.12-08.59.32:785][715]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.38:351][968]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.38:392][970]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.38:542][972]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.38:765][982]Cmd: TRANSACTION UNDO
+[2023.05.12-08.59.38:765][982]LogEditorTransaction: Undo Move Elements
+[2023.05.12-08.59.39:837][ 20]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.40:115][ 26]Cmd: EDIT COPY
+[2023.05.12-08.59.40:349][ 33]Cmd: EDIT PASTE
+[2023.05.12-08.59.40:545][ 34]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.40:750][ 39]LogShaderCompilers: Display: ================================================
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Total job queries 303, among them cache hits 8 (2.64%)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Tracking 291 distinct input hashes that result in 190 distinct outputs (65.29%)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: RAM used: 3.38 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.82%
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Shaders Compiled: 291
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Jobs assigned 295, completed 291 (98.64%)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Average time worker was idle: 16.54 s
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Time job spent in pending queue: average 45.52 s, longest 159.65 s
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Job execution time: average 7.79 s, max 34.64 s
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Job life time (pending + execution): average 53.91 s, max 161.69
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 356.79 s
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Jobs were issued in 252 batches (only local compilation was used), average 1.17 jobs/batch
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Average processing rate: 0.82 jobs/sec
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Total thread time: 1130.85 s
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Total thread preprocess time: 30.97 s
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Percentage time preprocessing: 2.74%
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Effective parallelization: 3.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   13 times, average 9.13 sec, max 11.90 sec, min 3.34 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 8.91 sec, max 11.17 sec, min 4.72 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   18 times, average 7.66 sec, max 10.70 sec, min 3.82 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   21 times, average 7.34 sec, max 11.32 sec, min 3.77 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   11 times, average 7.06 sec, max 10.88 sec, min 3.47 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.64% of total time (compiled   21 times, average 7.34 sec, max 11.32 sec, min 3.77 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 12.19% of total time (compiled   18 times, average 7.66 sec, max 10.70 sec, min 3.82 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 10.49% of total time (compiled   13 times, average 9.13 sec, max 11.90 sec, min 3.34 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 10.24% of total time (compiled   13 times, average 8.91 sec, max 11.17 sec, min 4.72 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.88% of total time (compiled   17 times, average 5.91 sec, max 11.30 sec, min 1.02 sec)
+[2023.05.12-08.59.40:751][ 39]LogShaderCompilers: Display: ================================================
+[2023.05.12-08.59.41:981][ 70]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.42:253][ 72]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.42:647][ 86]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.42:704][ 88]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.42:766][ 90]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.44:034][127]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.45:691][179]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.45:953][185]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.46:529][205]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.48:832][295]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.55:044][586]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.55:744][628]Cmd: TRANSACTION UNDO
+[2023.05.12-08.59.55:744][628]LogEditorTransaction: Undo Set Scale
+[2023.05.12-08.59.55:806][629]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.57:000][682]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.58:351][762]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-08.59.59:713][782]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.00:401][820]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.15:300][621]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.16:028][635]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.16:241][644]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.16:540][656]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.24:354][976]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.24:867][  4]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.27:176][137]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.27:206][139]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.27:340][147]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.27:492][156]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.27:624][164]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.27:909][181]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.28:353][206]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.33:279][445]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.38:651][756]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.38:652][756]LogEditorTransaction: Undo Set Scale
+[2023.05.12-09.00.38:723][757]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.39:082][764]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.39:082][764]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.52:980][561]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.52:980][561]LogEditorTransaction: Undo Move Elements
+[2023.05.12-09.00.53:070][562]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.53:344][565]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.53:344][565]LogEditorTransaction: Undo Scale Elements
+[2023.05.12-09.00.53:446][566]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.53:496][567]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.53:496][567]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.53:694][569]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.53:694][569]LogEditorTransaction: Undo Move Elements
+[2023.05.12-09.00.53:754][570]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.53:922][580]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.53:922][580]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.54:130][588]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.54:130][588]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.54:382][599]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.54:382][599]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.54:603][609]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.54:603][609]LogEditorTransaction: Undo Move Elements
+[2023.05.12-09.00.54:641][610]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.54:812][620]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.54:812][620]LogEditorTransaction: Undo Set Scale
+[2023.05.12-09.00.54:848][621]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.55:023][631]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.55:023][631]LogEditorTransaction: Undo Set Scale
+[2023.05.12-09.00.55:057][632]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.55:259][644]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.55:259][644]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.55:493][655]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.55:494][655]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.55:725][666]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.55:725][666]LogEditorTransaction: Undo Move Elements
+[2023.05.12-09.00.55:748][667]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.55:982][681]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.55:982][681]LogEditorTransaction: Undo Move Elements
+[2023.05.12-09.00.56:004][682]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.56:221][695]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.56:221][695]LogEditorTransaction: Undo Move Elements
+[2023.05.12-09.00.56:241][696]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.56:745][725]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.56:745][725]LogEditorTransaction: Undo Paste
+[2023.05.12-09.00.56:920][726]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.57:062][728]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.57:062][728]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.57:610][748]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.57:610][748]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.57:994][771]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.57:994][771]LogEditorTransaction: Undo Delete Elements
+[2023.05.12-09.00.58:089][772]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.00.58:357][788]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.58:357][788]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.58:723][807]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.58:723][807]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.12-09.00.59:190][835]Cmd: TRANSACTION UNDO
+[2023.05.12-09.00.59:190][835]LogEditorTransaction: Undo Delete Elements
+[2023.05.12-09.00.59:286][836]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.30:982][701]Cmd: DELETE
+[2023.05.12-09.01.30:982][701]Cmd: ACTOR DELETE
+[2023.05.12-09.01.30:994][701]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.12-09.01.31:037][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.05.12-09.01.31:042][701]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2023.05.12-09.01.31:066][703]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.33:302][830]Cmd: DELETE
+[2023.05.12-09.01.33:302][830]Cmd: ACTOR DELETE
+[2023.05.12-09.01.33:313][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.12-09.01.33:351][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.12-09.01.33:353][830]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2023.05.12-09.01.33:376][832]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.38:366][ 87]Cmd: EDIT COPY
+[2023.05.12-09.01.38:585][100]Cmd: EDIT PASTE
+[2023.05.12-09.01.38:675][101]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.40:682][190]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.40:781][195]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.41:424][226]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.50:238][700]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.50:921][741]Cmd: TRANSACTION UNDO
+[2023.05.12-09.01.50:921][741]LogEditorTransaction: Undo Set Scale
+[2023.05.12-09.01.50:986][742]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.52:662][822]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.55:240][966]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.55:357][973]Cmd: TRANSACTION UNDO
+[2023.05.12-09.01.55:357][973]LogEditorTransaction: Undo Set Rotation
+[2023.05.12-09.01.55:451][974]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.57:250][ 58]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.58:104][108]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.58:308][120]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.58:659][141]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.59:243][176]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.01.59:653][199]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.05:779][538]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.06:177][561]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.08:840][719]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.09:270][743]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.11:185][856]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.15:034][ 58]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.25:877][641]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.26:627][686]Cmd: TRANSACTION UNDO
+[2023.05.12-09.02.26:627][686]LogEditorTransaction: Undo Set Scale
+[2023.05.12-09.02.26:691][687]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.27:782][733]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.27:909][740]Cmd: TRANSACTION UNDO
+[2023.05.12-09.02.27:909][740]LogEditorTransaction: Undo Set Scale
+[2023.05.12-09.02.27:932][741]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.02.29:510][835]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.03.55:729][692]Cmd: EDIT COPY
+[2023.05.12-09.04.00:294][958]Cmd: EDIT COPY
+[2023.05.12-09.04.00:589][974]Cmd: EDIT PASTE
+[2023.05.12-09.04.00:704][975]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.04:430][190]Cmd: TRANSACTION UNDO
+[2023.05.12-09.04.04:430][190]LogEditorTransaction: Undo Paste
+[2023.05.12-09.04.04:586][191]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.06:532][290]Cmd: EDIT COPY
+[2023.05.12-09.04.06:804][306]Cmd: EDIT PASTE
+[2023.05.12-09.04.06:915][307]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.11:638][531]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.11:866][535]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.12:004][541]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.12:084][545]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.12:895][588]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.13:058][596]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.13:211][604]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.13:328][610]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.13:612][621]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.15:602][710]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.15:732][713]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.15:816][716]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.19:057][880]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.19:091][882]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.19:254][890]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.19:846][903]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.19:954][908]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.21:195][981]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.21:382][989]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.24:987][174]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.25:562][189]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.25:913][206]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.25:988][210]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.26:272][224]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.26:494][235]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.30:134][430]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.30:172][432]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.30:220][435]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.30:436][448]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.30:520][453]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.30:687][463]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.30:769][468]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.30:869][474]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.31:036][484]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.31:135][490]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.31:559][514]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.34:785][664]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.34:810][666]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.35:350][697]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.42:086][ 57]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.45:350][230]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.46:823][317]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.48:323][406]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.04.53:328][664]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRManor.VRManor:PersistentLevel.RecastNavMesh-Default).
+[2023.05.12-09.05.31:600][839]Cmd: DELETE
+[2023.05.12-09.05.31:600][839]Cmd: ACTOR DELETE
+[2023.05.12-09.05.31:612][839]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.05.12-09.05.31:654][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.12-09.05.31:657][839]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2023.05.12-09.05.36:009][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.12-09.05.36:015][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-09.05.36:199][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.12-09.05.36:437][ 91]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRManor
+[2023.05.12-09.05.36:440][ 91]LogSavePackage: Moving '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Saved/VRManorF70B076648367C6CBBFF2A82D0684C18.tmp' to '../../../../../../Users/Duval/source/repos/Groupe3_Unreal_VR/Disappearence/Content/VRTemplate/Maps/VRManor.umap'
+[2023.05.12-09.05.36:463][ 91]LogFileHelpers: No new changes to save!
+[2023.05.12-09.05.36:463][ 91]LogFileHelpers: Saving map 'VRManor' took 0.314
+[2023.05.12-09.05.36:472][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 456 ms (total: 37.0 sec)
+[2023.05.12-09.05.36:492][ 91]AssetCheck: New page: Asset Save: VRManor
+[2023.05.12-09.05.36:492][ 91]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRManor.VRManor
+[2023.05.12-09.05.38:887][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
